@@ -1,0 +1,218 @@
+{
+  "file": {
+    "checksum": "3f98581e6291b298c2a11a4410d7198e"
+  },
+  "data": [
+    {
+      "parameter": {
+        "qCCV": "QC:9000001"
+      },
+      "values": [
+        {
+          "value": "44927",
+          "contextSource": "QC:0000007"
+        }
+      ]
+    },
+    {
+      "parameter": {
+        "qCCV": "QC:9000001"
+      },
+      "values": [
+        {
+          "value": "21762",
+          "contextSource": "QC:0000029"
+        }
+      ]
+    },
+    {
+      "parameter": {
+        "qCCV": "QC:9000001"
+      },
+      "values": [
+        {
+          "value": "20051",
+          "contextSource": "QC:0000031"
+        }
+      ]
+    },
+    {
+      "parameter": {
+        "qCCV": "QC:9000001"
+      },
+      "values": [
+        {
+          "value": "4964",
+          "contextSource": "QC:0000032"
+        }
+      ]
+    },
+    {
+      "parameter": {
+        "qCCV": "QC:9000005"
+      },
+      "values": [
+        {
+          "value": "243.7502275042",
+          "contextSource": "QC:0000048"
+        }
+      ]
+    },
+    {
+      "parameter": {
+        "qCCV": "QC:1000014"
+      },
+      "values": [
+        {
+          "contextSource": "STLTDSLVC(Carbamidomethyl)K",
+          "value": "-0.021102340812323823"
+        },
+        {
+          "contextSource": "SLADELALVDVLEDK",
+          "value": "0.07967688738387801"
+        },
+        {
+          "contextSource": "NPDDITNEEYGEFYK",
+          "value": "-0.04942172302333083"
+        },
+        {
+          "contextSource": "LGDLYEEEMR",
+          "value": "-0.062251707785564776"
+        },
+        {
+          "contextSource": "LAVDEEENADNNTK",
+          "value": "-0.03420495018764933"
+        },
+        {
+          "contextSource": "FEELNMDLFR",
+          "value": "-0.0521065630495078"
+        },
+        {
+          "contextSource": "EAALSTALSEK",
+          "value": "-0.4671669501192978"
+        },
+        {
+          "contextSource": "RFPGYDSESK",
+          "value": "-0.17868974203492186"
+        },
+        {
+          "contextSource": "EVSTYIK",
+          "value": "-0.02907632119078123"
+        },
+        {
+          "contextSource": "EATTEFSVDAR",
+          "value": "-0.14929578979905006"
+        },
+        {
+          "contextSource": "FAFQAEVNR",
+          "value": "-0.06667254659116802"
+        },
+        {
+          "contextSource": "EQFLDGDGWTSR",
+          "value": "0.030307140366714894"
+        },
+        {
+          "contextSource": "YAEAVTR",
+          "value": "0"
+        },
+        {
+          "contextSource": "TPAQFDADELR",
+          "value": "0"
+        },
+        {
+          "contextSource": "DDVAQTDLLQIDPNFGSK",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "parameter": {
+        "qCCV": "QC:9000002"
+      },
+      "values": [
+        {
+          "value": 1.6103179454805,
+          "contextSource": "QC:1000927"
+        }
+      ]
+    },
+    {
+      "parameter": {
+        "qCCV": "QC:9000002"
+      },
+      "values": [
+        {
+          "value": 33.409999847412,
+          "contextSource": "QC:1000928"
+        }
+      ]
+    },
+    {
+      "parameter": {
+        "qCCV": "QC:1001844"
+      },
+      "values": [
+        {
+          "contextSource": "STLTDSLVC(Carbamidomethyl)K",
+          "value": "3.50778E8"
+        },
+        {
+          "contextSource": "SLADELALVDVLEDK",
+          "value": "6.23816E7"
+        },
+        {
+          "contextSource": "NPDDITNEEYGEFYK",
+          "value": "1.49283E8"
+        },
+        {
+          "contextSource": "LGDLYEEEMR",
+          "value": "1.04712E8"
+        },
+        {
+          "contextSource": "LAVDEEENADNNTK",
+          "value": "2.39217E8"
+        },
+        {
+          "contextSource": "FEELNMDLFR",
+          "value": "2.2026E7"
+        },
+        {
+          "contextSource": "EAALSTALSEK",
+          "value": "1.57414E8"
+        },
+        {
+          "contextSource": "RFPGYDSESK",
+          "value": "4.2643E8"
+        },
+        {
+          "contextSource": "EVSTYIK",
+          "value": "1.8138E9"
+        },
+        {
+          "contextSource": "EATTEFSVDAR",
+          "value": "4.38664E7"
+        },
+        {
+          "contextSource": "FAFQAEVNR",
+          "value": "7.46952E7"
+        },
+        {
+          "contextSource": "EQFLDGDGWTSR",
+          "value": "1.51154E8"
+        },
+        {
+          "contextSource": "YAEAVTR",
+          "value": "0"
+        },
+        {
+          "contextSource": "TPAQFDADELR",
+          "value": "0"
+        },
+        {
+          "contextSource": "DDVAQTDLLQIDPNFGSK",
+          "value": "0"
+        }
+      ]
+    }
+  ]
+}
